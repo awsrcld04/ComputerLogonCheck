@@ -230,7 +230,7 @@ namespace ComputerLogonCheck
 
         static void funcPrintParameterSyntax()
         {
-            Console.WriteLine("ComputerLogonCheck (c) 2011 SystemsAdminPro.com");
+            Console.WriteLine("ComputerLogonCheck");
             Console.WriteLine();
             Console.WriteLine("Description: Finds and disables inactive computers");
             Console.WriteLine();
