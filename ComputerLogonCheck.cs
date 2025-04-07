@@ -1,9 +1,4 @@
-﻿//****************************************
-// Copyright (c) Thinkability Group 2011
-// SystemsAdminPro.com
-//****************************************
-
-//Description:
+﻿//Description:
 //Finds computers that have not logged in within a certain number of days
 //Disables computers that have not logged in within a certain number of days
 //Optional: Find and disable computers that have not been used (no login datetimestamp)
