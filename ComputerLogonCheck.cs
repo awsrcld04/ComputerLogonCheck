@@ -1,4 +1,8 @@
-﻿//Description:
+﻿// Copyright (C) 2025 Akil Woolfolk Sr. 
+// All Rights Reserved
+// All the changes released under the MIT license as the original code.
+
+//Description:
 //Finds computers that have not logged in within a certain number of days
 //Disables computers that have not logged in within a certain number of days
 //Optional: Find and disable computers that have not been used (no login datetimestamp)
