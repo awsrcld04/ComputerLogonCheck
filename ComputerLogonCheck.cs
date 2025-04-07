@@ -744,8 +744,6 @@ namespace ComputerLogonCheck
             dCatchTable.Add("funcGetDateTimeFromLargeInteger", "f11");
             dCatchTable.Add("funcGetFuncCatchCode", "f12");
             dCatchTable.Add("funcGetLastLogonTimestamp", "f13");
-            dCatchTable.Add("funcLicenseActivation", "f14");
-            dCatchTable.Add("funcLicenseCheck", "f15");
             dCatchTable.Add("funcLogToEventLog", "f16");
             dCatchTable.Add("funcOpenOutputLog", "f17");
             dCatchTable.Add("funcParseCmdArguments", "f18");
