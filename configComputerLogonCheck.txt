@@ -1,0 +1,22 @@
+// Prefix for computers to exclude from being processed
+ExcludePrefix=
+
+// Suffix for computers to exclude from being processed
+ExcludeSuffix=DC01
+
+// Specific computers to exclude from being processed
+//	Automatic exclusion: (All domain controllers)
+Exclude=
+
+// Specify the number of days after a 14-day period (2 weeks) to use
+//  to search for computers that are not being used
+// For example, specifying 16 days would add up to 30 days
+// For example, specifying 31 days would add up to 45 days
+DaysSinceLastLogon=76
+
+// Switch to determine if unused computers are disabled
+DisableUnusedComputers=no
+
+// Number of days to use to exclude computer objects that were created manually
+//   but not yet used
+DaysSinceDateCreated=14
