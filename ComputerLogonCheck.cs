@@ -726,7 +726,6 @@ namespace ComputerLogonCheck
             dCatchTable.Add("funcPrintParameterSyntax", "f20");
             dCatchTable.Add("funcPrintParameterWarning", "f21");
             dCatchTable.Add("funcProgramExecution", "f22");
-            dCatchTable.Add("funcProgramRegistryTag", "f23");
             dCatchTable.Add("funcWriteToErrorLog", "f24");
             dCatchTable.Add("funcWriteToOutputLog", "f25");
 
