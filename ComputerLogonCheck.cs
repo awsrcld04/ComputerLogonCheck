@@ -444,8 +444,6 @@ namespace ComputerLogonCheck
             {
                 funcLogToEventLog("ComputerLogonCheck", "ComputerLogonCheck started", 100);
 
-                funcProgramRegistryTag("ComputerLogonCheck");
-
                 ComputerLoginParams newParams = funcParseConfigFile(objCMDArguments2);
 
                 funcCheckComputerLogin(newParams);
