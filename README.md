@@ -65,3 +65,4 @@ format
 Additional detail:
 - ComputerLoginCheck also references the date that the computer’s password was changed. ComputerLoginCheck checks to ensure the password has been set within the last 45 days. Changing the computer password (technically called the machine account password) is an automatic process that does not and should not require manual intervention.
 - ComputerLoginCheck will automatically exclude all Domain Controllers in the domain.
+- The DisableUnusedComputers parameter refers to computers that do not have the lastLogonTimestamp and operatingSystem attributes.
